@@ -1,12 +1,10 @@
-## Hi there 👋
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, there !</h1>
 
-<!--
+## 👨‍💻 This is JSU HUb
 
-**Here are some ideas to get you started:**
+- 🌱 We are students from JSU in China.
+- ❤️ We are interested in anything related to the Internet.
+- 👀 We love to explore and learn about new things.
+- 🤝 We look forward to working with more people like this.
+- ⬇️ Connect with us.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
